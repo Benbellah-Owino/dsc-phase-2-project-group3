@@ -3,11 +3,11 @@
 This repo contains group 3's pahse 2 project and its deliverables
 
 ## Group members
-[Benbellah Owino](https://github.com/Benbellah-Owino)<br>
-[Marion Kunga](https://github.com/marionrosek)<br>
-[Crispus Mutua](https://github.com/Mwongela7)<br>
-[Tricia Too](https://github.com/triciatoo)<br>
-[Keziah Muragami](https://github.com/keziahm-design)<br>
+[Benbellah Owino(Leader)](https://github.com/Benbellah-Owino): Data Cleaning<br>
+[Marion Kunga](https://github.com/marionrosek): Data Analysis<br>
+[Crispus Mutua](https://github.com/Mwongela7): Visualizations<br>
+[Tricia Too](https://github.com/triciatoo): Data Loading<br>
+[Keziah Muragami](https://github.com/keziahm-design): Data Analysis<br>
 
 ## Project Structure
 * **index.ipynb** - The main notebook that will contain the combined work of all the group members
