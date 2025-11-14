@@ -25,3 +25,8 @@ Your company now sees all the big companies creating original video content and 
 * 2. **Analyze audience and market trends.** Track audience preferences and regional performance trends over the past 5–10 years to identify growing market segments.
 * 3. **Evaluate key success factors influencing box office performance.** Quantify how production and marketing factors (budget, runtime, release month, star power, etc.) affect movie profitability.
 * 4. **Provide actionable recommendations for content strategy.** Translate data findings into a business strategy that directs the company’s new studio toward commercially viable movie projects.
+
+## Data Science Steps
+**1. Data loading** - Retrieving data from the different sources, doing some transformations on it then saving it all into one data store.<br>
+**2. Data Cleaning** -  Clean the consolidated data.<br>
+**3. Data Analysis** -  Coming up with hypotheses, testing them, creating visulizations, gaining insights and forming recommendations.
