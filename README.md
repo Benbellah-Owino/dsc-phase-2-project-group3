@@ -14,7 +14,7 @@ This repo contains group 3's pahse 2 project and its deliverables
 * **notebooks** - Folder containing the individual notebooks for the group members
 *  **data** - Folder containing the zipped data. Might be ignored in favour of the zippedData if it's too large
 *  **zippedData** - Fodler Containing the zipped data to be used. Might be ignored if data is allowed by github
-  
+*  **index.pdf** - Pdf version of the main notebook
 [Click here to navigate to project template](https://github.com/learn-co-curriculum/dsc-phase-2-project-v3.git)
 
 ## Business Problem
