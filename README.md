@@ -6,7 +6,7 @@ This repo contains group 3's pahse 2 project and its deliverables
 [Benbellah Owino(Leader)](https://github.com/Benbellah-Owino): Data Cleaning<br>
 [Marion Kunga](https://github.com/marionrosek): Data Analysis<br>
 [Crispus Mutua](https://github.com/Mwongela7): Visualizations<br>
-[Tricia Too](https://github.com/triciatoo): Data Loading<br>
+[Tricia Too](https://github.com/triciatoo): Data Loading and Cleaning<br>
 [Keziah Muragami](https://github.com/keziahm-design): Data Analysis<br>
 
 ## Project Structure
