@@ -30,3 +30,20 @@ Your company now sees all the big companies creating original video content and 
 **1. Data loading** - Retrieving data from the different sources, doing some transformations on it then saving it all into one data store.<br>
 **2. Data Cleaning** -  Clean the consolidated data.<br>
 **3. Data Analysis** -  Coming up with hypotheses, testing them, creating visulizations, gaining insights and forming recommendations.
+
+## Visualisations
+
+## TOP 10 MOVIES BY WORLDWIDE GROSS
+<img width="609" height="598" alt="image" src="https://github.com/user-attachments/assets/91866dce-68be-4f44-8851-a1d77088cf8b" />
+
+For the movies Avatar was the most viewed with a gross of more than 2.5
+
+## MOST VIEWED GENRE
+<img width="724" height="639" alt="image" src="https://github.com/user-attachments/assets/7357ed38-6d1f-46fc-8e46-7b45c15d656c" />
+
+ The most watched genre is the drama followed by comedy. 
+
+## DOMESTIC VS WORLDWIDE REVENUE TREND
+ <img width="615" height="333" alt="image" src="https://github.com/user-attachments/assets/fa5c67cb-3085-415c-9cd3-11ee19ff8c1a" />
+
+ The worldwide gross proves to be higher than the domestic gross with an average of 1.75.
